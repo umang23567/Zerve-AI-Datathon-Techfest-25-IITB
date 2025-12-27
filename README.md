@@ -24,5 +24,5 @@ The challenge involved training machine learning models on an **anonymized tabul
 - LightGBM, CatBoost  
 
 ## Outcome
-- Achieved **~0.297 Normalized Gini on a validation split derived from the training data**, used for model selection and tuning  
+- Achieved **~0.297 Normalized Gini** on a validation split derived from the training data, used for model selection and tuning  
 - Secured **5th position in the final round at IIT Bombay**, based on model performance and presentation  
