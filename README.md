@@ -9,8 +9,8 @@ The challenge involved training machine learning models on an **anonymized tabul
 - Preprocessed and analyzed anonymized, imbalanced insurance-related tabular data  
 - Designed validation strategies aligned with the competition metric  
 - Performed feature handling and exploratory analysis  
-- Experimented with multiple supervised learning models  
-- Generated final prediction files for evaluation  
+- Experimented with multiple supervised learning models 
+- Generated final prediction file for evaluation  
 
 ## Modeling Approach
 - Conducted data analysis and model experimentation to identify effective approaches  
