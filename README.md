@@ -1,16 +1,16 @@
 # Zerve AI Datathon – Insurance Claim Prediction Challenge
 
-Participated in the **Zerve AI Datathon**, conducted as part of **Techfest IIT Bombay**, focused on building predictive models that generalize well to unseen data.
+Participated in the **Zerve AI Datathon**, conducted as part of **Techfest IIT Bombay**, focused on building predictive models for **insurance claim prediction** using anonymized tabular data.
 
 ## Overview
-The challenge involved predicting the likelihood of **insurance claims** using an **anonymized tabular dataset**, where feature meanings were hidden. Models were trained on the provided data and used to generate predictions for a **hidden test set**, which was used for final evaluation. Performance was measured using **Normalized Gini**, along with assessment of modeling methodology and reasoning during the final presentation.
+The challenge involved training machine learning models on an **anonymized tabular dataset** related to insurance claims and generating predictions for a **held-out test set** used for final evaluation. Model performance was assessed using **Normalized Gini**, along with evaluation of methodology and reasoning during the final presentation.
 
 ## Key Tasks
-- Preprocessed and analyzed anonymized, imbalanced tabular data  
+- Preprocessed and analyzed anonymized, imbalanced insurance-related tabular data  
 - Designed validation strategies aligned with the competition metric  
 - Performed feature handling and exploratory analysis  
 - Experimented with multiple supervised learning models  
-- Generated final prediction files for hidden test evaluation  
+- Generated final prediction files for evaluation  
 
 ## Modeling Approach
 - Conducted data analysis and model experimentation to identify effective approaches  
@@ -25,4 +25,4 @@ The challenge involved predicting the likelihood of **insurance claims** using a
 
 ## Outcome
 - Achieved **~0.297 Normalized Gini on a validation split derived from the training data**, used for model selection and tuning  
-- Secured **5th position in the final round at IIT Bombay**, based on hidden test performance and presentation  
+- Secured **5th position in the final round at IIT Bombay**, based on model performance and presentation  
