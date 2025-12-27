@@ -3,7 +3,7 @@
 Participated in the **Zerve AI Datathon**, conducted as part of **Techfest IIT Bombay**, focused on building predictive models that generalize well to unseen data.
 
 ## Overview
-The challenge involved training machine learning models on an **anonymized tabular dataset** and generating predictions for a **hidden test set**, which was used for final evaluation. Model performance was assessed using **Normalized Gini**, along with evaluation of methodology and reasoning during the final presentation.
+The challenge involved predicting the likelihood of **insurance claims** using an **anonymized tabular dataset**, where feature meanings were hidden. Models were trained on the provided data and used to generate predictions for a **hidden test set**, which was used for final evaluation. Performance was measured using **Normalized Gini**, along with assessment of modeling methodology and reasoning during the final presentation.
 
 ## Key Tasks
 - Preprocessed and analyzed anonymized, imbalanced tabular data  
