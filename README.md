@@ -19,4 +19,4 @@ The challenge involved training machine learning models on an **anonymized tabul
 
 ## Outcome
 - Achieved **~0.297 Normalized Gini** on a validation split derived from the training data, used for model selection and tuning  
-- Secured **5th position in the final round at IIT Bombay**, based on model performance on unseen test data (submission csv) and presentation ([Finalist Certificate](certificate/Zerve_AI_Datathon_Finalist_Certificate.pdf))
+- Secured **5th position in the final round at IIT Bombay**, based on model performance on unseen test data (submission csv) and presentation ([Finalist Certificate](certificate/Zerve_AI_Datathon_Finalist_Certificate_Umang.pdf))
